@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	  int l, b, area;
-  cout << "Enters length and breadth : ";
+  cout << "Enters length and breadth : "<<endl;
   cin >> l >> b;
   
   area = l * b;
